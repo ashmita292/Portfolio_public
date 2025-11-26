@@ -1,26 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Photographies on My Learning Journey</title>
-    <link>http://localhost:1313/my-learning-journey/photography/</link>
-    <description>Recent content in Photographies on My Learning Journey</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 10 Sep 2023 12:00:00 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/my-learning-journey/photography/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Urban Exploration</title>
-      <link>http://localhost:1313/my-learning-journey/photography/urban/</link>
-      <pubDate>Sun, 10 Sep 2023 12:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/my-learning-journey/photography/urban/</guid>
-      <description>&lt;p&gt;Exploring the geometry and life of the city.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/my-learning-journey/img/placeholder.svg&#34; alt=&#34;Urban Shot 1&#34;&gt;&#xA;&lt;img src=&#34;http://localhost:1313/my-learning-journey/img/placeholder.svg&#34; alt=&#34;Urban Shot 2&#34;&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Nature Photography</title>
-      <link>http://localhost:1313/my-learning-journey/photography/nature/</link>
-      <pubDate>Sun, 20 Aug 2023 12:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/my-learning-journey/photography/nature/</guid>
-      <description>&lt;p&gt;A collection of shots from my recent hiking trips.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/my-learning-journey/img/placeholder.svg&#34; alt=&#34;Nature Shot 1&#34;&gt;&#xA;&lt;img src=&#34;http://localhost:1313/my-learning-journey/img/placeholder.svg&#34; alt=&#34;Nature Shot 2&#34;&gt;&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Photographies on My Learning Journey</title><link>https://ashmita292.github.io/Portfolio_public/photography/</link><description>Recent content in Photographies on My Learning Journey</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 10 Sep 2023 12:00:00 +0530</lastBuildDate><atom:link href="https://ashmita292.github.io/Portfolio_public/photography/index.xml" rel="self" type="application/rss+xml"/><item><title>Urban Exploration</title><link>https://ashmita292.github.io/Portfolio_public/photography/urban/</link><pubDate>Sun, 10 Sep 2023 12:00:00 +0530</pubDate><guid>https://ashmita292.github.io/Portfolio_public/photography/urban/</guid><description>&lt;p&gt;Exploring the geometry and life of the city.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://ashmita292.github.io/Portfolio_public/img/placeholder.svg" alt="Urban Shot 1"&gt;
+&lt;img src="https://ashmita292.github.io/Portfolio_public/img/placeholder.svg" alt="Urban Shot 2"&gt;&lt;/p&gt;</description></item><item><title>Nature Photography</title><link>https://ashmita292.github.io/Portfolio_public/photography/nature/</link><pubDate>Sun, 20 Aug 2023 12:00:00 +0530</pubDate><guid>https://ashmita292.github.io/Portfolio_public/photography/nature/</guid><description>&lt;p&gt;A collection of shots from my recent hiking trips.&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://ashmita292.github.io/Portfolio_public/img/placeholder.svg" alt="Nature Shot 1"&gt;
+&lt;img src="https://ashmita292.github.io/Portfolio_public/img/placeholder.svg" alt="Nature Shot 2"&gt;&lt;/p&gt;</description></item></channel></rss>

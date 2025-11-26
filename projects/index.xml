@@ -1,26 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Projects on My Learning Journey</title>
-    <link>http://localhost:1313/my-learning-journey/projects/</link>
-    <description>Recent content in Projects on My Learning Journey</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 01 Oct 2023 12:00:00 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/my-learning-journey/projects/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Personal Portfolio</title>
-      <link>http://localhost:1313/my-learning-journey/projects/portfolio/</link>
-      <pubDate>Sun, 01 Oct 2023 12:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/my-learning-journey/projects/portfolio/</guid>
-      <description>&lt;p&gt;This is the project you are looking at right now! It&amp;rsquo;s a custom-built Hugo theme designed for speed and simplicity.&lt;/p&gt;&#xA;&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Fast Loading&lt;/strong&gt;: No heavy frameworks, just vanilla HTML/CSS.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;SEO Optimized&lt;/strong&gt;: Includes OpenGraph, Twitter Cards, and Schema.org data.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Dark Mode&lt;/strong&gt;: Built-in dark mode support using CSS variables.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Responsive&lt;/strong&gt;: Looks great on mobile and desktop.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Weather App</title>
-      <link>http://localhost:1313/my-learning-journey/projects/weather-app/</link>
-      <pubDate>Fri, 15 Sep 2023 12:00:00 +0530</pubDate>
-      <guid>http://localhost:1313/my-learning-journey/projects/weather-app/</guid>
-      <description>&lt;p&gt;A React-based weather application that fetches real-time weather data.&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-learnings&#34;&gt;Key Learnings&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Fetching data from REST APIs.&lt;/li&gt;&#xA;&lt;li&gt;Managing state with React Hooks.&lt;/li&gt;&#xA;&lt;li&gt;Handling asynchronous operations.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects on My Learning Journey</title><link>https://ashmita292.github.io/Portfolio_public/projects/</link><description>Recent content in Projects on My Learning Journey</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 01 Oct 2023 12:00:00 +0530</lastBuildDate><atom:link href="https://ashmita292.github.io/Portfolio_public/projects/index.xml" rel="self" type="application/rss+xml"/><item><title>Personal Portfolio</title><link>https://ashmita292.github.io/Portfolio_public/projects/portfolio/</link><pubDate>Sun, 01 Oct 2023 12:00:00 +0530</pubDate><guid>https://ashmita292.github.io/Portfolio_public/projects/portfolio/</guid><description>&lt;p&gt;This is the project you are looking at right now! It&amp;rsquo;s a custom-built Hugo theme designed for speed and simplicity.&lt;/p&gt;
+&lt;h2 id="features"&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Fast Loading&lt;/strong&gt;: No heavy frameworks, just vanilla HTML/CSS.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;SEO Optimized&lt;/strong&gt;: Includes OpenGraph, Twitter Cards, and Schema.org data.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dark Mode&lt;/strong&gt;: Built-in dark mode support using CSS variables.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Responsive&lt;/strong&gt;: Looks great on mobile and desktop.&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Weather App</title><link>https://ashmita292.github.io/Portfolio_public/projects/weather-app/</link><pubDate>Fri, 15 Sep 2023 12:00:00 +0530</pubDate><guid>https://ashmita292.github.io/Portfolio_public/projects/weather-app/</guid><description>&lt;p&gt;A React-based weather application that fetches real-time weather data.&lt;/p&gt;
+&lt;h2 id="key-learnings"&gt;Key Learnings&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fetching data from REST APIs.&lt;/li&gt;
+&lt;li&gt;Managing state with React Hooks.&lt;/li&gt;
+&lt;li&gt;Handling asynchronous operations.&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>
