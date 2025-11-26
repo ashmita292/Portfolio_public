@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ci-Cd on My Learning Journey</title><link>https://ashmita292.github.io/Portfolio_public/tags/ci-cd/</link><description>Recent content in Ci-Cd on My Learning Journey</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 27 Oct 2023 11:00:00 +0530</lastBuildDate><atom:link href="https://ashmita292.github.io/Portfolio_public/tags/ci-cd/index.xml" rel="self" type="application/rss+xml"/><item><title>Automating with GitHub Actions</title><link>https://ashmita292.github.io/Portfolio_public/daily/2023-10-27-github-actions/</link><pubDate>Fri, 27 Oct 2023 11:00:00 +0530</pubDate><guid>https://ashmita292.github.io/Portfolio_public/daily/2023-10-27-github-actions/</guid><description>Setting up a workflow to deploy my Hugo site automatically.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ci-Cd on My Learning Journey</title>
+    <link>https://ashmita292.github.io/Portfolio_public/tags/ci-cd/</link>
+    <description>Recent content in Ci-Cd on My Learning Journey</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Oct 2023 11:00:00 +0530</lastBuildDate>
+    <atom:link href="https://ashmita292.github.io/Portfolio_public/tags/ci-cd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Automating with GitHub Actions</title>
+      <link>https://ashmita292.github.io/Portfolio_public/daily/2023-10-27-github-actions/</link>
+      <pubDate>Fri, 27 Oct 2023 11:00:00 +0530</pubDate>
+      <guid>https://ashmita292.github.io/Portfolio_public/daily/2023-10-27-github-actions/</guid>
+      <description>Setting up a workflow to deploy my Hugo site automatically.</description>
+    </item>
+  </channel>
+</rss>
