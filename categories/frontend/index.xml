@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Frontend on My Learning Journey</title><link>https://yourusername.github.io/my-learning-journey/categories/frontend/</link><description>Recent content in Frontend on My Learning Journey</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 26 Oct 2023 10:00:00 +0530</lastBuildDate><atom:link href="https://yourusername.github.io/my-learning-journey/categories/frontend/index.xml" rel="self" type="application/rss+xml"/><item><title>Mastering CSS Variables</title><link>https://yourusername.github.io/my-learning-journey/daily/2023-10-26-css-variables/</link><pubDate>Thu, 26 Oct 2023 10:00:00 +0530</pubDate><guid>https://yourusername.github.io/my-learning-journey/daily/2023-10-26-css-variables/</guid><description>Exploring the power of CSS variables for theming.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Frontend on My Learning Journey</title>
+    <link>http://localhost:1313/my-learning-journey/categories/frontend/</link>
+    <description>Recent content in Frontend on My Learning Journey</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 26 Oct 2023 10:00:00 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/my-learning-journey/categories/frontend/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mastering CSS Variables</title>
+      <link>http://localhost:1313/my-learning-journey/daily/2023-10-26-css-variables/</link>
+      <pubDate>Thu, 26 Oct 2023 10:00:00 +0530</pubDate>
+      <guid>http://localhost:1313/my-learning-journey/daily/2023-10-26-css-variables/</guid>
+      <description>Exploring the power of CSS variables for theming.</description>
+    </item>
+  </channel>
+</rss>

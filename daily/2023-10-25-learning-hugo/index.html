@@ -1,5 +1,158 @@
-<!doctype html><html lang=en-us><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><title>Learning Hugo Basics | My Learning Journey</title><meta name=description content="A daily learning blog and project showcase."><meta property="og:title" content="Learning Hugo Basics"><meta property="og:description" content="A daily learning blog and project showcase."><meta property="og:type" content="article"><meta property="og:url" content="https://yourusername.github.io/my-learning-journey/daily/2023-10-25-learning-hugo/"><meta property="og:site_name" content="My Learning Journey"><meta name=twitter:card content="summary_large_image"><meta name=twitter:title content="Learning Hugo Basics"><meta name=twitter:description content="A daily learning blog and project showcase."><meta name=twitter:site content="@your_twitter_handle"><meta name=twitter:creator content="@your_twitter_handle"><script type=application/ld+json>{"@context":"https://schema.org","@type":"BlogPosting","headline":"Learning Hugo Basics","description":"A daily learning blog and project showcase.","url":"https:\/\/yourusername.github.io\/my-learning-journey\/daily\/2023-10-25-learning-hugo\/","author":{"@type":"Person","name":"Your Name"},"datePublished":"2023-10-25"}</script><link rel=stylesheet href=/my-learning-journey/css/style.css><link rel=canonical href=https://yourusername.github.io/my-learning-journey/daily/2023-10-25-learning-hugo/></head><body><header><div class=container><div class=logo><a href=/my-learning-journey/%20/>My Learning Journey</a></div><nav><ul><li><a href=/my-learning-journey/>Home</a></li><li><a href=/my-learning-journey/daily/>Daily Learnings</a></li><li><a href=/my-learning-journey/projects/>Projects</a></li><li><a href=/my-learning-journey/photography/>Photography</a></li><li><a href=/my-learning-journey/tags/>Tags</a></li><li><a href=/my-learning-journey/about/>About</a></li></ul></nav><button id=theme-toggle aria-label="Toggle Dark Mode">
-<span class=icon>🌙</span></button></div></header><main class=container><article class=single-post><header><h1>Learning Hugo Basics</h1><div class=meta><time>Oct 25, 2023</time>
-<span class=categories>In: <a href=/my-learning-journey/%20/categories/web-development>web-development</a></span></div></header><div class=content><p>Today I started learning <strong>Hugo</strong>. It&rsquo;s incredibly fast and flexible.</p><h2 id=key-concepts>Key Concepts</h2><ol><li><strong>Content Management</strong>: Markdown files in <code>content/</code>.</li><li><strong>Templates</strong>: Go HTML templates in <code>layouts/</code>.</li><li><strong>Static Assets</strong>: CSS, JS, Images in <code>static/</code>.</li></ol><p>I managed to set up a basic site structure and run the server using <code>hugo server -D</code>.</p></div><footer><div class=tags>Tags: <a href=/my-learning-journey/%20/tags/hugo>#hugo</a> <a href=/my-learning-journey/%20/tags/static-site-generator>#static-site-generator</a></div><div id=comments><p>Comments are currently disabled.</p></div></footer></article></main><footer><div class=container><p>&copy; 2025 Your Name. All rights reserved.</p><div class=social-links><a href=https://twitter.com/your_twitter_handle target=_blank rel=noopener>Twitter</a>
-<a href=https://github.com/your_github_username target=_blank rel=noopener>GitHub</a>
-<a href=https://linkedin.com/in/your_linkedin_username target=_blank rel=noopener>LinkedIn</a></div></div></footer><script>const toggleButton=document.getElementById("theme-toggle"),body=document.body,icon=toggleButton.querySelector(".icon");localStorage.getItem("theme")==="dark"&&(body.classList.add("dark-mode"),icon.textContent="☀️"),toggleButton.addEventListener("click",()=>{body.classList.toggle("dark-mode"),body.classList.contains("dark-mode")?(localStorage.setItem("theme","dark"),icon.textContent="☀️"):(localStorage.setItem("theme","light"),icon.textContent="🌙")})</script></body></html>
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head><script src="/my-learning-journey/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=my-learning-journey/livereload" data-no-instant defer></script>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Learning Hugo Basics | My Learning Journey</title>
+<meta name="description" content="A daily learning blog and project showcase.">
+
+<meta property="og:title" content="Learning Hugo Basics" />
+<meta property="og:description"
+    content="A daily learning blog and project showcase." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://localhost:1313/my-learning-journey/daily/2023-10-25-learning-hugo/" />
+
+<meta property="og:site_name" content="My Learning Journey" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Learning Hugo Basics" />
+<meta name="twitter:description"
+    content="A daily learning blog and project showcase." />
+
+
+<meta name="twitter:site" content="@your_twitter_handle" />
+<meta name="twitter:creator" content="@your_twitter_handle" />
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Learning Hugo Basics",
+  "description": "A daily learning blog and project showcase.",
+  "url": "http:\/\/localhost:1313\/my-learning-journey\/daily\/2023-10-25-learning-hugo\/",
+  "author": {
+    "@type": "Person",
+    "name": "Your Name"
+  },
+  "datePublished": "2023-10-25"
+}
+</script>
+
+<link rel="stylesheet" href="/my-learning-journey/css/style.css">
+<link rel="canonical" href="http://localhost:1313/my-learning-journey/daily/2023-10-25-learning-hugo/">
+
+</head>
+
+<body>
+    <header>
+    <div class="container">
+        <div class="logo">
+            <a href="/my-learning-journey/%20/">My Learning Journey</a>
+        </div>
+        <nav>
+            <ul>
+                
+                <li><a href="/my-learning-journey/" class="">Home</a></li>
+                
+                <li><a href="/my-learning-journey/daily/" class="">Daily Learnings</a></li>
+                
+                <li><a href="/my-learning-journey/projects/" class="">Projects</a></li>
+                
+                <li><a href="/my-learning-journey/photography/" class="">Photography</a></li>
+                
+                <li><a href="/my-learning-journey/tags/" class="">Tags</a></li>
+                
+                <li><a href="/my-learning-journey/about/" class="">About</a></li>
+                
+            </ul>
+        </nav>
+        <button id="theme-toggle" aria-label="Toggle Dark Mode">
+            <span class="icon">🌙</span>
+        </button>
+    </div>
+</header>
+
+    <main class="container">
+        
+<article class="single-post">
+    <header>
+        <h1>Learning Hugo Basics</h1>
+        <div class="meta">
+            <time>Oct 25, 2023</time>
+            
+            <span class="categories">
+                In: <a href="/my-learning-journey/%20/categories/web-development">web-development</a> 
+            </span>
+            
+        </div>
+    </header>
+
+    <div class="content">
+        <p>Today I started learning <strong>Hugo</strong>. It&rsquo;s incredibly fast and flexible.</p>
+<h2 id="key-concepts">Key Concepts</h2>
+<ol>
+<li><strong>Content Management</strong>: Markdown files in <code>content/</code>.</li>
+<li><strong>Templates</strong>: Go HTML templates in <code>layouts/</code>.</li>
+<li><strong>Static Assets</strong>: CSS, JS, Images in <code>static/</code>.</li>
+</ol>
+<p>I managed to set up a basic site structure and run the server using <code>hugo server -D</code>.</p>
+
+    </div>
+
+    <footer>
+        
+        <div class="tags">
+            Tags: <a href="/my-learning-journey/%20/tags/hugo">#hugo</a> <a href="/my-learning-journey/%20/tags/static-site-generator">#static-site-generator</a> 
+        </div>
+        
+
+        
+        <div id="comments">
+            
+            <p>Comments are currently disabled.</p>
+        </div>
+    </footer>
+</article>
+
+    </main>
+
+    <footer>
+    <div class="container">
+        <p>&copy; 2025 Your Name. All rights reserved.</p>
+        <div class="social-links">
+            <a href="https://twitter.com/your_twitter_handle" target="_blank"
+                rel="noopener">Twitter</a>
+            <a href="https://github.com/your_github_username" target="_blank"
+                rel="noopener">GitHub</a>
+            <a href="https://linkedin.com/in/your_linkedin_username" target="_blank"
+                rel="noopener">LinkedIn</a>
+        </div>
+    </div>
+</footer>
+
+<script>
+    
+    const toggleButton = document.getElementById('theme-toggle');
+    const body = document.body;
+    const icon = toggleButton.querySelector('.icon');
+
+    
+    if (localStorage.getItem('theme') === 'dark') {
+        body.classList.add('dark-mode');
+        icon.textContent = '☀️';
+    }
+
+    toggleButton.addEventListener('click', () => {
+        body.classList.toggle('dark-mode');
+        if (body.classList.contains('dark-mode')) {
+            localStorage.setItem('theme', 'dark');
+            icon.textContent = '☀️';
+        } else {
+            localStorage.setItem('theme', 'light');
+            icon.textContent = '🌙';
+        }
+    });
+</script>
+</body>
+
+</html>

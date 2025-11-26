@@ -1,25 +1,68 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>My Learning Journey</title><link>https://yourusername.github.io/my-learning-journey/</link><description>Recent content on My Learning Journey</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 27 Oct 2023 12:00:00 +0530</lastBuildDate><atom:link href="https://yourusername.github.io/my-learning-journey/index.xml" rel="self" type="application/rss+xml"/><item><title>About Me</title><link>https://yourusername.github.io/my-learning-journey/about/</link><pubDate>Fri, 27 Oct 2023 12:00:00 +0530</pubDate><guid>https://yourusername.github.io/my-learning-journey/about/</guid><description>&lt;p&gt;Hi! I&amp;rsquo;m a passionate developer learning new things every day. This blog documents my journey, showcases my projects, and shares some of my photography.&lt;/p&gt;
-&lt;h2 id="my-background"&gt;My Background&lt;/h2&gt;
-&lt;p&gt;I have a background in&amp;hellip;&lt;/p&gt;
-&lt;h2 id="tech-stack"&gt;Tech Stack&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Languages&lt;/strong&gt;: Python, JavaScript, Go&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Tools&lt;/strong&gt;: Hugo, Git, VS Code&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>Automating with GitHub Actions</title><link>https://yourusername.github.io/my-learning-journey/daily/2023-10-27-github-actions/</link><pubDate>Fri, 27 Oct 2023 11:00:00 +0530</pubDate><guid>https://yourusername.github.io/my-learning-journey/daily/2023-10-27-github-actions/</guid><description>Setting up a workflow to deploy my Hugo site automatically.</description></item><item><title>Mastering CSS Variables</title><link>https://yourusername.github.io/my-learning-journey/daily/2023-10-26-css-variables/</link><pubDate>Thu, 26 Oct 2023 10:00:00 +0530</pubDate><guid>https://yourusername.github.io/my-learning-journey/daily/2023-10-26-css-variables/</guid><description>Exploring the power of CSS variables for theming.</description></item><item><title>Learning Hugo Basics</title><link>https://yourusername.github.io/my-learning-journey/daily/2023-10-25-learning-hugo/</link><pubDate>Wed, 25 Oct 2023 09:00:00 +0530</pubDate><guid>https://yourusername.github.io/my-learning-journey/daily/2023-10-25-learning-hugo/</guid><description>Today I started learning Hugo, a fast static site generator.</description></item><item><title>Personal Portfolio</title><link>https://yourusername.github.io/my-learning-journey/projects/portfolio/</link><pubDate>Sun, 01 Oct 2023 12:00:00 +0530</pubDate><guid>https://yourusername.github.io/my-learning-journey/projects/portfolio/</guid><description>&lt;p&gt;This is the project you are looking at right now! It&amp;rsquo;s a custom-built Hugo theme designed for speed and simplicity.&lt;/p&gt;
-&lt;h2 id="features"&gt;Features&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Fast Loading&lt;/strong&gt;: No heavy frameworks, just vanilla HTML/CSS.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;SEO Optimized&lt;/strong&gt;: Includes OpenGraph, Twitter Cards, and Schema.org data.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Dark Mode&lt;/strong&gt;: Built-in dark mode support using CSS variables.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Responsive&lt;/strong&gt;: Looks great on mobile and desktop.&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>Weather App</title><link>https://yourusername.github.io/my-learning-journey/projects/weather-app/</link><pubDate>Fri, 15 Sep 2023 12:00:00 +0530</pubDate><guid>https://yourusername.github.io/my-learning-journey/projects/weather-app/</guid><description>&lt;p&gt;A React-based weather application that fetches real-time weather data.&lt;/p&gt;
-&lt;h2 id="key-learnings"&gt;Key Learnings&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Fetching data from REST APIs.&lt;/li&gt;
-&lt;li&gt;Managing state with React Hooks.&lt;/li&gt;
-&lt;li&gt;Handling asynchronous operations.&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>Urban Exploration</title><link>https://yourusername.github.io/my-learning-journey/photography/urban/</link><pubDate>Sun, 10 Sep 2023 12:00:00 +0530</pubDate><guid>https://yourusername.github.io/my-learning-journey/photography/urban/</guid><description>&lt;p&gt;Exploring the geometry and life of the city.&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://yourusername.github.io/my-learning-journey/img/placeholder.svg" alt="Urban Shot 1"&gt;
-&lt;img src="https://yourusername.github.io/my-learning-journey/img/placeholder.svg" alt="Urban Shot 2"&gt;&lt;/p&gt;</description></item><item><title>Nature Photography</title><link>https://yourusername.github.io/my-learning-journey/photography/nature/</link><pubDate>Sun, 20 Aug 2023 12:00:00 +0530</pubDate><guid>https://yourusername.github.io/my-learning-journey/photography/nature/</guid><description>&lt;p&gt;A collection of shots from my recent hiking trips.&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://yourusername.github.io/my-learning-journey/img/placeholder.svg" alt="Nature Shot 1"&gt;
-&lt;img src="https://yourusername.github.io/my-learning-journey/img/placeholder.svg" alt="Nature Shot 2"&gt;&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Learning Journey</title>
+    <link>http://localhost:1313/my-learning-journey/</link>
+    <description>Recent content on My Learning Journey</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Oct 2023 12:00:00 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/my-learning-journey/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/my-learning-journey/about/</link>
+      <pubDate>Fri, 27 Oct 2023 12:00:00 +0530</pubDate>
+      <guid>http://localhost:1313/my-learning-journey/about/</guid>
+      <description>&lt;p&gt;Hi! I&amp;rsquo;m a passionate developer learning new things every day. This blog documents my journey, showcases my projects, and shares some of my photography.&lt;/p&gt;&#xA;&lt;h2 id=&#34;my-background&#34;&gt;My Background&lt;/h2&gt;&#xA;&lt;p&gt;I have a background in&amp;hellip;&lt;/p&gt;&#xA;&lt;h2 id=&#34;tech-stack&#34;&gt;Tech Stack&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Languages&lt;/strong&gt;: Python, JavaScript, Go&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Tools&lt;/strong&gt;: Hugo, Git, VS Code&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Automating with GitHub Actions</title>
+      <link>http://localhost:1313/my-learning-journey/daily/2023-10-27-github-actions/</link>
+      <pubDate>Fri, 27 Oct 2023 11:00:00 +0530</pubDate>
+      <guid>http://localhost:1313/my-learning-journey/daily/2023-10-27-github-actions/</guid>
+      <description>Setting up a workflow to deploy my Hugo site automatically.</description>
+    </item>
+    <item>
+      <title>Mastering CSS Variables</title>
+      <link>http://localhost:1313/my-learning-journey/daily/2023-10-26-css-variables/</link>
+      <pubDate>Thu, 26 Oct 2023 10:00:00 +0530</pubDate>
+      <guid>http://localhost:1313/my-learning-journey/daily/2023-10-26-css-variables/</guid>
+      <description>Exploring the power of CSS variables for theming.</description>
+    </item>
+    <item>
+      <title>Learning Hugo Basics</title>
+      <link>http://localhost:1313/my-learning-journey/daily/2023-10-25-learning-hugo/</link>
+      <pubDate>Wed, 25 Oct 2023 09:00:00 +0530</pubDate>
+      <guid>http://localhost:1313/my-learning-journey/daily/2023-10-25-learning-hugo/</guid>
+      <description>Today I started learning Hugo, a fast static site generator.</description>
+    </item>
+    <item>
+      <title>Personal Portfolio</title>
+      <link>http://localhost:1313/my-learning-journey/projects/portfolio/</link>
+      <pubDate>Sun, 01 Oct 2023 12:00:00 +0530</pubDate>
+      <guid>http://localhost:1313/my-learning-journey/projects/portfolio/</guid>
+      <description>&lt;p&gt;This is the project you are looking at right now! It&amp;rsquo;s a custom-built Hugo theme designed for speed and simplicity.&lt;/p&gt;&#xA;&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Fast Loading&lt;/strong&gt;: No heavy frameworks, just vanilla HTML/CSS.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;SEO Optimized&lt;/strong&gt;: Includes OpenGraph, Twitter Cards, and Schema.org data.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Dark Mode&lt;/strong&gt;: Built-in dark mode support using CSS variables.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Responsive&lt;/strong&gt;: Looks great on mobile and desktop.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Weather App</title>
+      <link>http://localhost:1313/my-learning-journey/projects/weather-app/</link>
+      <pubDate>Fri, 15 Sep 2023 12:00:00 +0530</pubDate>
+      <guid>http://localhost:1313/my-learning-journey/projects/weather-app/</guid>
+      <description>&lt;p&gt;A React-based weather application that fetches real-time weather data.&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-learnings&#34;&gt;Key Learnings&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Fetching data from REST APIs.&lt;/li&gt;&#xA;&lt;li&gt;Managing state with React Hooks.&lt;/li&gt;&#xA;&lt;li&gt;Handling asynchronous operations.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Urban Exploration</title>
+      <link>http://localhost:1313/my-learning-journey/photography/urban/</link>
+      <pubDate>Sun, 10 Sep 2023 12:00:00 +0530</pubDate>
+      <guid>http://localhost:1313/my-learning-journey/photography/urban/</guid>
+      <description>&lt;p&gt;Exploring the geometry and life of the city.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/my-learning-journey/img/placeholder.svg&#34; alt=&#34;Urban Shot 1&#34;&gt;&#xA;&lt;img src=&#34;http://localhost:1313/my-learning-journey/img/placeholder.svg&#34; alt=&#34;Urban Shot 2&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Nature Photography</title>
+      <link>http://localhost:1313/my-learning-journey/photography/nature/</link>
+      <pubDate>Sun, 20 Aug 2023 12:00:00 +0530</pubDate>
+      <guid>http://localhost:1313/my-learning-journey/photography/nature/</guid>
+      <description>&lt;p&gt;A collection of shots from my recent hiking trips.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/my-learning-journey/img/placeholder.svg&#34; alt=&#34;Nature Shot 1&#34;&gt;&#xA;&lt;img src=&#34;http://localhost:1313/my-learning-journey/img/placeholder.svg&#34; alt=&#34;Nature Shot 2&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
